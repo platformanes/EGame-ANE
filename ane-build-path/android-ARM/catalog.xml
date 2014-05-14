@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+  <versions>
+    <swc version="1.2" />
+    <flex version="4.6.0" build="23201" minimumSupportedVersion="3.0.0" />
+  </versions>
+  <features>
+    <feature-script-deps />
+    <feature-files />
+  </features>
+  <libraries>
+    <library path="library.swf">
+      <script name="com/egame/ane/EGameExtension" mod="1399620165085" signatureChecksum="228220366" >
+        <def id="com.egame.ane:EGameExtension" /> 
+        <dep id="flash.events:StatusEvent" type="e" /> 
+        <dep id="flash.external:ExtensionContext" type="e" /> 
+        <dep id="flash.events:StatusEvent" type="s" /> 
+        <dep id="flash.external:ExtensionContext" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.events:EventDispatcher" type="i" /> 
+      </script>
+      <script name="com/egame/ane/EGameEvent" mod="1398483588295" signatureChecksum="3928503877" >
+        <def id="com.egame.ane:EGameEvent" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="_6d90efc109c781b34a24daf591038596fcbf02f316b8071b024d1051c5118384_flash_display_Sprite" mod="1399620167151" signatureChecksum="1334016139" >
+        <def id="_6d90efc109c781b34a24daf591038596fcbf02f316b8071b024d1051c5118384_flash_display_Sprite" /> 
+        <dep id="flash.system:Security" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.display:Sprite" type="i" /> 
+      </script>
+      <digests>
+        <digest type="SHA-256" signed="false" value="a5631abbe6cf04c2bf6330e6fd5754158fbea33e385067c22cc2a7a41c5ea380"   />
+      </digests>
+    </library>
+  </libraries>
+  <files>
+  </files>
+</swc>

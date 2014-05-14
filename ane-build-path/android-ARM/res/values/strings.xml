@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">com.estore.ane</string>
+	<string name="sure">确认</string>
+	<string name="cancel">取消</string>
+	<string name="return_game">返回游戏</string>
+	<string name="now_paying">支付中，请稍候...</string>
+	<string name="will_pay">确认支付</string>
+	<string name="dear_user">尊敬的用户:</string>
+	<string name="will_buy">尊敬的用户，您即将购买:</string>
+</resources>

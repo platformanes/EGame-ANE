@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension xmlns="http://ns.adobe.com/air/extension/3.9">
+  <id>com.egame.ane</id>
+  <versionNumber>1</versionNumber>
+  <platforms>
+    <platform name="Android-ARM">
+      <applicationDeployment>
+        <nativeLibrary>egame.jar</nativeLibrary>
+        <initializer>com.egame.ane.EGameExtension</initializer>
+        <finalizer>com.egame.ane.EGameExtension</finalizer>
+      </applicationDeployment>
+    </platform>
+  </platforms>
+</extension>
